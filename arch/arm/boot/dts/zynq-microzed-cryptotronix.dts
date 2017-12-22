@@ -110,4 +110,4 @@
 
 &hkdf0 {
 	compatible = "generic-uio";
-}
+};
